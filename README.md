@@ -1,6 +1,6 @@
 # Hackathon-Chatbot
-## NAME: SHEHAN SHAJAHAN
-## REGISTER NO: 212223240154
+## NAME: THIRISHA A
+## REGISTER NO: 212223040228
 
 A lightweight **enterprise assistant** with improvised, human-like AI responses and automatic document summarization.  
 Built with **Flask** backend and a simple **HTML/JS frontend**. Supports PDF/TXT uploads with structured summaries.
